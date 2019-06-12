@@ -25,6 +25,7 @@ User-data is stored in the database like this:
 - `lastName : String`
 - `email : String`
 - `password : String (hashed met Bcrypt)`
+- `img: {url: String, alt: String}
 - `gender : String`
 - `bio : String`
 - `events : {festival : [String], party : [String]}`
