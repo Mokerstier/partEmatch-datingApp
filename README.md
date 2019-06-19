@@ -57,7 +57,7 @@ _For local setups:_
 
 _For live setups_
 1. `touch .env`
-2. `echo "MONGODB_URI=<YOUR_DB_URL>:<YOUR_DB_PORT>/<YOUR_DB_NAME>"
+2. `echo "MONGODB_URI=<YOUR_DB_URL>:<YOUR_DB_PORT>/<YOUR_DB_NAME>"`
 
 You are now able to run the application using `npm start`
 if everything is set up the right way youre terminal will log:
