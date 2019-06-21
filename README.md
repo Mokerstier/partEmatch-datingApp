@@ -72,3 +72,7 @@ U run nodemon with the `npm run dev` command in the terminal
 
 each time you save your .js file nodemon will run the file in the terminal. 
 GGWP! No need to drag your index.html with script tags to the browser. EZ-life!
+
+Mokerstier/partEmatch-datingApp is licensed under the
+#### MIT License
+© 2019 Wouter van der Heijde
