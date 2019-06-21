@@ -1,5 +1,5 @@
 # partEmatch - datingapp
-Basic webapp that runs on Nodejs
+Basic webapp that runs on Nodejs and uses EJS as templating engine.
 
 _Check out the app [here](https://partematch.herokuapp.com/) its live!_
 
